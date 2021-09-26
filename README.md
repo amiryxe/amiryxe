@@ -1,5 +1,8 @@
 ### Hi 👋 My name is Amir Salehi.
 
+[![Amiryxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiryxe)](https://github.com/amiryxe/github-readme-stats)
+
+
 <!--
 **amiryxe/amiryxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
