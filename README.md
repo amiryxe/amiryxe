@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Amir Salehi.
 
-[![Amiryxe's GitHub stats]([https://github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa).vercel.app/api?username=amiryxe&theme=ayu-mirage)](https://github.com/amiryxe/)
+[![Amiryxe's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amiryxe&theme=ayu-mirage)](https://github.com/amiryxe/)
 
 
 <!--
